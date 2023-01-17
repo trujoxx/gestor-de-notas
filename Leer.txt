@@ -1,0 +1,8 @@
+Usuario: profesor
+Contraseña: 12345
+
+El usuario y la contraseña están predefinidos por el administrador y en caso de olvido de contraseña o de la creación de un nuevo usuario pues se deberá poner en contacto con dicho administrador
+
+Las clases en vez de estar destribuidas en A, B o C están distribuidas por nombres específicos porque está basado en el colegio donde trabaja mi hermana.
+
+
